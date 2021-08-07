@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jesswon777@yahoo.com.au
+	name = Jessica Wong
